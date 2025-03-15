@@ -1,8 +1,5 @@
 ### **🛡️ Password Security & Leak Detection Tool**  
-In an era where data breaches are becoming increasingly common, ensuring the security of your passwords is essential.
-This tool is designed to help users analyze the strength of their passwords and check if they have been compromised in known breaches.
-By integrating with the Have I Been Pwned (HIBP) API, it allows users to verify their passwords securely without exposing them.
-The project is built using Flask for the backend and a web-based UI for ease of use, ensuring a smooth and efficient experience. 
+In an era where data breaches are becoming increasingly common, ensuring the security of your passwords is essential. This tool is designed to help users analyze the strength of their passwords and check if they have been compromised in known breaches. By integrating with the Have I Been Pwned (HIBP) API, it allows users to verify their passwords securely without exposing them. The project is built using Flask for the backend and a web-based UI for ease of use, ensuring a smooth and efficient experience. 
 
 ![Project Demo](https://via.placeholder.com/800x400?text=Project+Demo)  
 
@@ -42,6 +39,7 @@ python app.py
 
 ## **🌍 Live Demo**  
 For those who prefer to use the live version, the backend is deployed on Render, Access the tool using the following link:
+
 🔗 **Backend (Render):** [password-security-tool.onrender.com](https://password-security-tool.onrender.com)  
 
 
@@ -53,8 +51,7 @@ For those who prefer to use the live version, the backend is deployed on Render,
 
 
 ## **📜 License**  
-MIT License - This project is open-source and released under the MIT License, allowing free use, modification, and distribution.
-Developers are encouraged to enhance and adapt the tool while maintaining credit to the original contributors. 
+MIT License - This project is open-source and released under the MIT License, allowing free use, modification, and distribution. Developers are encouraged to enhance and adapt the tool while maintaining credit to the original contributors. 
 
 
 Want to contribute? **Fork the repo** and submit a PR! 🎉  
