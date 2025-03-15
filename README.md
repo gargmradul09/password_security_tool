@@ -23,6 +23,7 @@ In an era where data breaches are becoming increasingly common, ensuring the sec
 
 # **1️⃣ Clone the Repository**  
 git clone https://github.com/gargmradul09/password_security_tool.git
+
 cd password_security_tool
 
 
